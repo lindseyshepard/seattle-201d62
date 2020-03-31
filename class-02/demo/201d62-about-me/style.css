@@ -1,0 +1,8 @@
+ul {
+        list-style-type: hiragana-iroha;
+        background-color: #201d6230;
+}
+
+li {
+  font-family: sans-serif;
+}
